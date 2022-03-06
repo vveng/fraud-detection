@@ -1,0 +1,1 @@
+print("faroud detection code")
