@@ -1,1 +1,1 @@
-print("faroud detection code")
+print("fraud detection code")
